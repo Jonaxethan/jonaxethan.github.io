@@ -19,11 +19,14 @@ Ich überlege schon länger einen eigenen Blog zu beginnen. Mein ehmailger Kolle
 Wie euch bereits aufgefallen sein sollte, vewendet dieser Blog Github Pages, aber warum sollte man seinen Blog über Github publizieren?
 Meine ersten Erfahrungen im Bereich Webseiten gehen zurück ins Jahr 2019.(Mittlerweile auch wieder 7 Jahre her) Während meiner Ausbildung zum Fachinformatiker hatte mein Ausbilder meine Azubi-Kollegen und mich gebeten unsere Website zu überarbeiten. Unsere dahmalige Website war mit [Jooma](https://www.joomla.org/) erstellt. Wir hatten mit [Wordpress](https://wordpress.com/de/) eine neue Version erstellt. Ich selbst war mehr für die funktionalen Anforderungen der Website verantwortlich, weil Gestaltung nicht wirklich zu meinen Stärken gehört.
 
-Neben den Websiteeditoren stehen auch Bloghosting seiten wie [Medium](https://medium.com/) oder [Ghost](https://ghost.org/) zur Verfügung. Das wäre ebenfalls eine Lösing gewesen, aber ich möchte eigentlich keinen vorgefertigen Websitenbuilder ;( 
-Für mich ist es wichtig, dass ich meinen Blog ähnlich wie einen Texteditor einfach schreiben kann. Ich will mich nicht viel um die Formatierung kümmern. Sollte es mal soweit kommen, habe ich hier die volle Kontrolle.
-Dazu nutze ich Github bereits seit 2024. Für mich fühlt es sich viel natürlicher an diesen Text in VSCode zu schreiben und per git das Update zu posten.
-An dieser Stelle vielen dank an [Ahmed Tremo](https://github.com/tremo1) für diese Vorlage.  
-Github Pages bietet die charmante Möglichkeit gemeinsam mit Github Action sowohl den Blog zu hosten, als auch die Updates automatisch einzuspielen.
+Neben den Websiteeditoren stehen auch Bloghosting seiten wie [Medium](https://medium.com/) oder [Ghost](https://ghost.org/) zur Verfügung. Das wäre ebenfalls eine Lösung gewesen, aber ich möchte eigentlich keinen vorgefertigen Websitenbuilder ;( 
+Für mich ist es wichtig, dass ich meinen Blog ähnlich wie einen Texteditor einfach schreiben kann. Ich will mich nicht viel um die Formatierung kümmern.
+Dazu nutze ich Github bereits seit 2024. Für mich fühlt es sich viel natürlicher an diesen Text in VSCode zu schreiben und per git das Update zu posten. Dazu kommt, dass jeder Artikel als Markdown File geschrieben wird. Markdown ist dabei ähnlich zu Latex, weil es dem Prinzip der **"What You See Is What You Mean"** kurz WYSIWYM folgt. Das ist Pendant zu **"What You See Is What You Get"** kurz WYSIWYG. Das heißt während ich in Word oder anderen Editoren ich gleiche Ansicht habe, wie der Leser nutze ich eine beschreibendes Format und muss nicht ständig mit Markierung und Formatierung arbeiten. Zugegebenmaßen dauert es bis man in den Flow kommt, aber mit ein bisschen Übung wird man recht schnell.
+
+An dieser Stelle vielen dank an [Ahmed Tremo](https://github.com/tremo1) für diese Vorlage. Über sein Repository wurde diese Blog erstellt. Die Anpassung wurden dann durch meine Person durchgeführt.
+
+Github Pages bietet darüberhinaus die charmante Möglichkeit gemeinsam mit Github Action sowohl den Blog zu hosten, als auch die Updates automatisch einzuspielen.
+Nach dem Prinzip der CI/CD werden durch den Git Push die Aktion gestartet den neuen Content auf der Website zur Verfügung stellt.
 
 
 ## Wer und was erwartet mich?
@@ -31,3 +34,10 @@ Github Pages bietet die charmante Möglichkeit gemeinsam mit Github Action sowoh
 Nach diesem direkten Anfang möchte ich doch die Gelegenheit nutzen mich kurz vorstellen. Mein Name ist Jonathan Axt und ich bin Wirtschaftsinformatiker, angehender DevopsEngineer und freiberuflicher Berater, American Football Enthusiast und noch vieles mehr. Sollte euch meine Vita interessieren schaut hier gerne hier nach [AboutMe](https://jonaxethan.github.io/aboutme)
 
 Der Blog wird mit Themen bespielt, die mich interessieren. Also hauptsächlich Themen rund um IT. 
+Dabei gemäß dem OSI-Modell versuche ich das gesamte Spektrum abzudecken.
+
+
+![OSI108Layer](/assets/img/posts/2026-02-20-Me-Myself-and-I/OSI10layer)
+Quelle [^1]
+
+[^1](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSI_user_layers.png/500px-OSI_user_layers.png)

@@ -33,7 +33,7 @@ Ich brauche also keinen eigenen Webserver zu hosten :D
 
 ## Wer und was erwartet mich?
 
-Nach diesem direkten Einstieg möchte ich doch die Gelegenheit nutzen mich kurz vorstellen. Mein Name ist Jonathan Axt und ich bin Wirtschaftsinformatiker, angehender DevopsEngineer und freiberuflicher Berater, American Football Enthusiast und noch vieles mehr. Sollte euch meine Vita interessieren schaut hier gerne hier nach [AboutMe](https://jonaxethan.github.io/aboutme)
+Nach diesem direkten Einstieg möchte ich doch die Gelegenheit nutzen mich kurz vorstellen. Mein Name ist Jonathan Axt und ich bin Wirtschaftsinformatiker, angehender DevopsEngineer, freiberuflicher Berater, American Football Enthusiast und noch vieles mehr. Sollte euch meine Vita interessieren schaut hier gerne hier nach [AboutMe](https://jonaxethan.github.io/aboutme)
 
 Der Blog wird mit Themen bespielt, die mich interessieren. Also Alles rund um IT. 
 Dabei gemäß dem OSI-Modell versuche ich das gesamte Spektrum abzudecken. (Mit einer kleinen Ergänzung ;))
@@ -47,10 +47,12 @@ Als Wirtschaftsinformatiker interessiert mich nicht nur der Anteil der Infromati
 
 Eine kleine Besonderheit ist, dass ich gerne inkremental arbeite. Folglich werden am Anfang eines Post ein Status des entsprechenden Blogeintrags kommen.
 So ähnlich wie hier:
+
 <span style="background-color:yellow; color:black; padding:3px 6px; border-radius:4px; font-weight:bold;">
   Status: In Bearbeitung
 </span>
-Der Blog soll "leben" und für mich gehört dazu, dass ich euch an meinen Gedanken teilhaben lassen möchte. Auch hier bietet euch und mir der Vorteil, dass diese Seite durch git bzw. Github technisch unterstützt wird, denn Ihr könnt alle die Veränderungen nachverfolgen.
+
+Der Blog soll "leben" und für mich gehört dazu, dass ich euch an meinen Gedanken teilhaben lasse. Auch hier bietet euch und mir der Vorteil, dass diese Seite durch git bzw. Github technisch unterstützt wird, denn Ihr könnt alle die Veränderungen nachverfolgen.
 
 Eventuell hilft mir meine Motivation hochzuhalten und euch Information in leichtverdaulichen Häppchen zu servieren. 
 

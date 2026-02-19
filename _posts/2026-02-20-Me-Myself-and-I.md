@@ -37,7 +37,7 @@ Der Blog wird mit Themen bespielt, die mich interessieren. Also hauptsächlich T
 Dabei gemäß dem OSI-Modell versuche ich das gesamte Spektrum abzudecken.
 
 
-![OSI108Layer](/assets/img/posts/2026-02-20-Me-Myself-and-I/OSI10layer)
+![OSI110Layer](/assets/img/posts/2026-02-20-Me-Myself-and-I/OSI10layer.png)
 Quelle [^1]
 
 [^1](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSI_user_layers.png/500px-OSI_user_layers.png)

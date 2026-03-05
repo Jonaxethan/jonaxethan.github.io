@@ -1,10 +1,10 @@
 ---
 title: Me, Myself & I
 date: 2026-02-18 20:14 +0100
-categories: [Blogging, Persönlichkeit]
-tags: [ blog, personal blog,]
+categories: [Blogging, Persönlichkeit, Github Pages]
+tags: [ blog, Layer 8,]
 author: jonaxethan
-description: "Me, Myself & I eine Kurzbeschreibung von mir"
+description: "Me, Myself & I: eine Kurzbeschreibung von mir"
 ---
 
 ## Mein erster Blogpost
@@ -21,9 +21,9 @@ Neben den Websiteeditoren stehen auch Bloghosting seiten wie [Medium](https://me
 Für mich ist es wichtig, dass ich meinen Blog ähnlich wie einen Texteditor einfach schreiben kann. Ich will mich nicht viel, um die Formatierung, kümmern.
 Dazu nutze ich Github bereits seit 2024. Für mich fühlt es sich viel natürlicher an diesen Text in VSCode zu schreiben und per git das Update zu posten. Dazu kommt, dass jeder Artikel als Markdown File geschrieben wird. 
 
-Markdown ist dabei ähnlich zu Latex, weil es dem Prinzip der **"What You See Is What You Mean"** kurz WYSIWYM folgt. Das Pendant zu **"What You See Is What You Get"** kurz WYSIWYG. Das heißt während ich in Word oder anderen Editoren ich gleiche Ansicht habe, wie der Leser nutze ich eine beschreibendes Format und muss nicht ständig über Markierung und Formatierung ärgern. Zugegebenmaßen dauert es bis man in den Flow kommt, aber mit ein bisschen Übung wird man recht schnell.
+Markdown ist dabei ähnlich zu Latex, weil es dem Prinzip der **"What You See Is What You Mean"** kurz WYSIWYM folgt. Das Pendant zu **"What You See Is What You Get"** kurz WYSIWYG. Das heißt, während ich in MS Word die gleiche Ansicht habe, wie der Leser, nutze ich eine beschreibendes Format und muss mich nicht ständig über Markierung und Formatierung ärgern. Zugegebenmaßen dauert es bis man in den Flow kommt, aber mit ein bisschen Übung wird man recht schnell.
 
-An dieser Stelle vielen dank an [Ahmed Tremo](https://github.com/tremo1) für diese Vorlage. Über sein Repository wurde diese Blog erstellt. Die Anpassung wurden dann durch meine Person durchgeführt.
+An dieser Stelle vielen Dank an [Ahmed Tremo](https://github.com/tremo1) für diese Vorlage. Über sein Repository wurde diese Blog erstellt. Die Anpassung wurden dann durch meine Person durchgeführt.
 
 Schaut euch gerne mal sein Tutorial auf Youtube an.
 ### [YouTube Video Walkthrough](https://youtu.be/m1RYsmOMPLs)

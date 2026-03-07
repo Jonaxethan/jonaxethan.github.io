@@ -24,9 +24,9 @@ Wenn man an Amsterdam denkt, kommen einen eher die Wasserkanäle als große Inte
 Für den Aufenthalt habe ich mir ein Hotel etwas außerhalb gebucht. Das Four Elements wurde mir hierbei von einem Arbeitskollegen empfohlen. Der Location ist sehr schön an einem kleinen Strand und gerade wird vor dem Hotel eine neue Insel gebaut.
 Ganz richtig gelesen, die Insel wird ** gebaut **. In Amsterdam wird renoviert und wieder renoviert. Es gibt einige Baustellen, aber scheinbar ohne sehr störend zu sein. später gibt es ein bisschen mehr diesbezüglich. Die neue Insel lädt ein für einen kleinen Spaziergang am Strand und wunderbar, um dem Sonnenaufgang zu beobachten.
 
-[Sonnenaufgang]{/assets/img/posts/2026-06-01-Amsterdam/2026-03-07-Amsterdam-sonnenaufgang.jpeg}
+[Sonnenaufgang]{/assets/img/posts/2026-03-07-Amsterdam/2026-03-07-Amsterdam-sonnenaufgang.jpeg}
 
-[Strand]{/assets/img/posts2026-06-01-Amsterdam/2026-03-07-Amsterdam-Strand.jpeg}
+[Strand]{/assets/img/posts/2026-03-07-Amsterdam/2026-03-07-Amsterdam-Strand.jpeg}
 
 Jedenfalls kannn ich das Hotel empfehlen. Es gibt einen guten Ausblick eine, Roof-Top Bar und die Straßenbahnhaltestelle ist 6 min vom Hotel entfernt.
 
